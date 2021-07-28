@@ -14,5 +14,29 @@
     "decimals": 18,
     "chainId": 4002,
     "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
+  },
+  {
+    "name": "Soul",
+    "address": "0xBa6204f47b4Db2a22D7C4227569cEa3C8aD448DC",
+    "symbol": "SOUL",
+    "decimals": 18,
+    "chainId": 4002,
+    "logoURI": "./images/soul.png"
+  },
+  {
+    "name": "Seance",
+    "address": "0xba34A07d0282A023e08ceb6098E59dFBEbE9f1E1",
+    "symbol": "SEANCE",
+    "decimals": 18,
+    "chainId": 4002,
+    "logoURI": "../images/seance.gif"
+  },
+  {
+    "name": "Spell",
+    "address": "0x399e4510941E94429bF282BEc540300476B8A8Fb",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "chainId": 4002,
+    "logoURI": "../images/spell.png"
   }
 ]
