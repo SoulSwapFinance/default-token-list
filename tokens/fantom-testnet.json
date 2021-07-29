@@ -21,7 +21,7 @@
     "symbol": "SOUL",
     "decimals": 18,
     "chainId": 4002,
-    "logoURI": "./images/soul.png"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/blockchains/fantom-testnet/assets/0xba6204f47b4db2a22d7c4227569cea3c8ad448dc/logo.jpg"
   },
   {
     "name": "Seance",
@@ -29,7 +29,7 @@
     "symbol": "SEANCE",
     "decimals": 18,
     "chainId": 4002,
-    "logoURI": "../images/seance.gif"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/blockchains/fantom-testnet/assets/0xba34a07d0282a023e08ceb6098e59dfbebe9f1e1/logo.jpg"
   },
   {
     "name": "Spell",
@@ -37,6 +37,6 @@
     "symbol": "SPELL",
     "decimals": 18,
     "chainId": 4002,
-    "logoURI": "../images/spell.png"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/blockchains/fantom-testnet/assets/0x399e4510941e94429bf282bec540300476b8a8fb/logo.jpg"
   }
 ]
