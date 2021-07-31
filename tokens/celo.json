@@ -45,7 +45,7 @@
     "symbol": "CELO",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/celo.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/celo.jpg"
   },
   {
     "address": "0x64dEFa3544c695db8c535D289d843a189aa26b98",
@@ -93,7 +93,7 @@
     "symbol": "cBTC",
     "decimals": 18,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/btc.jpg"
   },
   {
     "address": "0xD8763CBa276a3738E6DE85b4b3bF5FDed6D6cA73",
@@ -109,6 +109,6 @@
     "symbol": "cDOGE",
     "decimals": 9,
     "chainId": 42220,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/doge.jpg"
   }
 ]

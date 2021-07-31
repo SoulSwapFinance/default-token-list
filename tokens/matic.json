@@ -5,7 +5,7 @@
 		"symbol": "AAVE",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/aave.jpg"
 	},
 	{
 		"name": "Adamant",
@@ -45,7 +45,7 @@
 		"symbol": "BAT",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bat.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/bat.jpg"
 	},
 	{
 		"name": "Beefy.finance",
@@ -101,7 +101,7 @@
 		"name": "Celsius",
 		"symbol": "CEL",
 		"decimals": 4,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cel.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/cel.jpg"
 	},
 	{
 		"name": "ChumHum",
@@ -141,7 +141,7 @@
 		"symbol": "CRV",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/crv.jpg"
 	},
 	{
 		"name": "Dai Stablecoin",
@@ -149,7 +149,7 @@
 		"symbol": "DAI",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/dai.jpg"
 	},
 	{
 		"name": "DEGEN Index",
@@ -285,7 +285,7 @@
 		"symbol": "GRT",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/grt.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/grt.jpg"
 	},
 	{
 		"address": "0xc48F61a288A08F1B80c2edd74652e1276B6A168c",
@@ -333,7 +333,7 @@
 		"symbol": "KRILL",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/krill.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/krill.jpg"
 	},
 	{
 		"name": "ChainLink Token",
@@ -341,7 +341,7 @@
 		"symbol": "LINK",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/link.jpg"
 	},
 	{
 		"address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
@@ -365,7 +365,7 @@
 		"symbol": "MKR",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mkr.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/mkr.jpg"
 	},
 	{
 		"address": "0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0",
@@ -453,7 +453,7 @@
 		"symbol": "PolyDoge",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/doge.jpg"
 	},
 	{
 		"name": "Qi Dao",
@@ -469,7 +469,7 @@
 		"symbol": "RCN",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rcn.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/rcn.jpg"
 	},
 	{
 		"name": "Router Protocol",
@@ -485,7 +485,7 @@
 		"symbol": "SAND",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sand.jpg"
 	},
 	{
 		"name": "Synthetix Network Token",
@@ -493,7 +493,7 @@
 		"symbol": "SNX",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/snx.jpg"
 	},
 	{
 		"address": "0xf5EA626334037a2cf0155D49eA6462fDdC6Eff19",
@@ -509,7 +509,7 @@
 		"symbol": "SUSHI",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sushi.jpg"
 	},
 	{
 		"name": "SportX",
@@ -557,7 +557,7 @@
 		"symbol": "UNI",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/uni.jpg"
 	},
 	{
 		"name": "USD Coin",
@@ -565,7 +565,7 @@
 		"symbol": "USDC",
 		"decimals": 6,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/usdc.jpg"
 	},
 	{
 		"name": "Tether USD",
@@ -573,7 +573,7 @@
 		"symbol": "USDT",
 		"decimals": 6,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/usdt.jpg"
 	},
 	{
 		"name": "Wrapped BTC",
@@ -581,7 +581,7 @@
 		"symbol": "WBTC",
 		"decimals": 8,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/btc.jpg"
 	},
 	{
 		"name": "Wrapped Ether",
@@ -589,7 +589,7 @@
 		"symbol": "WETH",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/eth.jpg"
 	},
 	{
 		"name": "Wrapped Matic",
@@ -597,7 +597,7 @@
 		"symbol": "WMATIC",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/polygon.jpg"
 	},
 	{
 		"name": "Moonwolf",
@@ -629,7 +629,7 @@
 		"name": "yearn.finance",
 		"symbol": "YFI",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/yfi.jpg"
 	},
 	{
 		"name": "dHEDGE Top Index",
@@ -669,7 +669,7 @@
 		"symbol": "renBTC",
 		"decimals": 8,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/btc.jpg"
 	},
 	{
 		"name": "Ren DOGE",
@@ -677,7 +677,7 @@
 		"symbol": "renDOGE",
 		"decimals": 8,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/doge.jpg"
 	},
 	{
 		"name": "Ren DOGE/PoS",
@@ -685,7 +685,7 @@
 		"symbol": "renDOGE/PoS",
 		"decimals": 8,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/doge.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/doge.jpg"
 	},
 	{
 		"name": "Wrapped Filecoin",
@@ -693,6 +693,6 @@
 		"symbol": "wFIL",
 		"decimals": 18,
 		"chainId": 137,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fil.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/fil.jpg"
 	}
 ]

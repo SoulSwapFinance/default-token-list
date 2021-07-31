@@ -5,7 +5,7 @@
 		"name": "1inch Exchange",
 		"symbol": "1INCH",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/1inch.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/1inch.jpg"
 	},
 	{
 		"address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
@@ -13,7 +13,7 @@
 		"name": "AAVE",
 		"symbol": "AAVE",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/aave.jpg"
 	},
 	{
 		"address": "0xADE00C28244d5CE17D72E40330B1c318cD12B7c3",
@@ -21,7 +21,7 @@
 		"name": "AdEx Network",
 		"symbol": "ADX",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/adx.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/adx.jpg"
 	},
 	{
 		"address": "0x91Af0fBB28ABA7E31403Cb457106Ce79397FD4E6",
@@ -45,7 +45,7 @@
 		"name": "Akropolis",
 		"symbol": "AKRO",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/akro.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/akro.jpg"
 	},
 	{
 		"address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
@@ -53,7 +53,7 @@
 		"name": "Alchemix",
 		"symbol": "ALCX",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/alcx.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/alcx.jpg"
 	},
 	{
 		"address": "0x27702a26126e0B3702af63Ee09aC4d1A084EF628",
@@ -77,7 +77,7 @@
 		"name": "Alpha Finance",
 		"symbol": "ALPHA",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/alpha.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/alpha.jpg"
 	},
 	{
 		"address": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2",
@@ -85,7 +85,7 @@
 		"name": "Amp",
 		"symbol": "AMP",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/amp.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/amp.jpg"
 	},
 	{
 		"address": "0xD46bA6D942050d489DBd938a2C909A5d5039A161",
@@ -93,7 +93,7 @@
 		"name": "Ampleforth",
 		"symbol": "AMPL",
 		"decimals": 9,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ampl.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ampl.jpg"
 	},
 	{
 		"address": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4",
@@ -101,7 +101,7 @@
 		"name": "Ankr Network",
 		"symbol": "ANKR",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ankr.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ankr.jpg"
 	},
 	{
 		"address": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e",
@@ -109,7 +109,7 @@
 		"name": "Aragon",
 		"symbol": "ANT",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ant.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ant.jpg"
 	},
 	{
 		"address": "0xf99d58e463A2E07e5692127302C20A191861b4D6",
@@ -181,7 +181,7 @@
 		"name": "Bounce Token",
 		"symbol": "AUCTION",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/auction.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/auction.jpg"
 	},
 	{
 		"address": "0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998",
@@ -229,7 +229,7 @@
 		"name": "Badger DAO",
 		"symbol": "BADGER",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/badger.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/badger.jpg"
 	},
 	{
 		"address": "0xba100000625a3754423978a60c9317c58a424e3D",
@@ -245,7 +245,7 @@
 		"name": "Band Protocol",
 		"symbol": "BAND",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/band.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/band.jpg"
 	},
 	{
 		"address": "0x24A6A37576377F63f194Caa5F518a60f45b42921",
@@ -293,7 +293,7 @@
 		"name": "Basic Attention Token",
 		"symbol": "BAT",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bat.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/bat.jpg"
 	},
 	{
 		"address": "0xE4f726Adc8e89C6a6017F01eadA77865dB22dA14",
@@ -341,7 +341,7 @@
 		"name": "BoringDao",
 		"symbol": "BOR",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bor.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/bor.jpg"
 	},
 	{
 		"address": "0x0eC9F76202a7061eB9b3a7D6B59D36215A7e37da",
@@ -365,7 +365,7 @@
 		"name": "Bytom",
 		"symbol": "BTM",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btm.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/btm.jpg"
 	},
 	{
 		"address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
@@ -373,7 +373,7 @@
 		"name": "Binance USD",
 		"symbol": "BUSD",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/busd.jpg"
 	},
 	{
 		"address": "0x56d811088235F11C8920698a204A5010a788f4b3",
@@ -381,7 +381,7 @@
 		"name": "bZx Protocol Token",
 		"symbol": "BZRX",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bzrx.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/bzrx.jpg"
 	},
 	{
 		"address": "0x03Be5C903c727Ee2C8C4e9bc0AcC860Cca4715e2",
@@ -397,7 +397,7 @@
 		"name": "Celsius",
 		"symbol": "CEL",
 		"decimals": 4,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cel.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/cel.jpg"
 	},
 	{
 		"address": "0xC76FB75950536d98FA62ea968E1D6B45ffea2A55",
@@ -421,7 +421,7 @@
 		"name": "Compound",
 		"symbol": "COMP",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/comp.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/comp.jpg"
 	},
 	{
 		"address": "0x62359Ed7505Efc61FF1D56fEF82158CcaffA23D7",
@@ -437,7 +437,7 @@
 		"name": "Cover Protocol",
 		"symbol": "COVER",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cover.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/cover.jpg"
 	},
 	{
 		"address": "0xD417144312DbF50465b1C641d016962017Ef6240",
@@ -461,7 +461,7 @@
 		"name": "Cream",
 		"symbol": "CREAM",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cream.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/cream.jpg"
 	},
 	{
 		"address": "0xcBc1065255cBc3aB41a6868c22d1f1C573AB89fd",
@@ -477,7 +477,7 @@
 		"name": "Crypto.com Coin",
 		"symbol": "CRO",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/cro.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/cro.jpg"
 	},
 	{
 		"address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
@@ -485,7 +485,7 @@
 		"name": "Curve DAO Token",
 		"symbol": "CRV",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/crv.jpg"
 	},
 	{
 		"address": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D",
@@ -525,7 +525,7 @@
 		"name": "Dai Stablecoin",
 		"symbol": "DAI",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/dai.jpg"
 	},
 	{
 		"address": "0x0f51bb10119727a7e5eA3538074fb341F56B09Ad",
@@ -629,7 +629,7 @@
 		"name": "district0x",
 		"symbol": "DNT",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dnt.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/dnt.jpg"
 	},
 	{
 		"address": "0xad32A8e6220741182940c5aBF610bDE99E737b2D",
@@ -645,7 +645,7 @@
 		"name": "Defi Pulse Index",
 		"symbol": "DPI",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dpi.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/dpi.jpg"
 	},
 	{
 		"address": "0xb78B3320493a4EFaa1028130C5Ba26f0B6085Ef8",
@@ -701,7 +701,7 @@
 		"name": "EnjinCoin",
 		"symbol": "ENJ",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/enj.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/enj.jpg"
 	},
 	{
 		"address": "0x36F3FD68E7325a35EB768F1AedaAe9EA0689d723",
@@ -773,7 +773,7 @@
 		"name": "Frontier",
 		"symbol": "FRONT",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/front.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/front.jpg"
 	},
 	{
 		"address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
@@ -781,7 +781,7 @@
 		"name": "Fantom Token",
 		"symbol": "FTM",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ftm.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ftm.jpg"
 	},
 	{
 		"address": "0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9",
@@ -837,7 +837,7 @@
 		"name": "The Graph",
 		"symbol": "GRT",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/grt.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/grt.jpg"
 	},
 	{
 		"address": "0x0316EB71485b0Ab14103307bf65a021042c6d380",
@@ -853,7 +853,7 @@
 		"name": "Hegic",
 		"symbol": "HEGIC",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/hegic.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/hegic.jpg"
 	},
 	{
 		"address": "0xEEF9f339514298C6A857EfCfC1A762aF84438dEE",
@@ -869,7 +869,7 @@
 		"name": "HuobiToken",
 		"symbol": "HT",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/heco.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/heco.jpg"
 	},
 	{
 		"address": "0xdF574c24545E5FfEcb9a659c229253D4111d87e1",
@@ -877,7 +877,7 @@
 		"name": "HUSD",
 		"symbol": "HUSD",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/husd.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/husd.jpg"
 	},
 	{
 		"address": "0x6A68DE599E8E0b1856E322CE5Bd11c5C3C79712B",
@@ -893,7 +893,7 @@
 		"name": "IceToken",
 		"symbol": "ICE",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ice.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ice.jpg"
 	},
 	{
 		"address": "0x903bEF1736CDdf2A537176cf3C64579C3867A881",
@@ -933,7 +933,7 @@
 		"name": "Injective Protocol",
 		"symbol": "INJ",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/inj.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/inj.jpg"
 	},
 	{
 		"address": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68",
@@ -965,7 +965,7 @@
 		"name": "Jarvis Reward Token",
 		"symbol": "JRT",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/jrt.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/jrt.jpg"
 	},
 	{
 		"address": "0x368C5290b13cAA10284Db58B4ad4F3E9eE8bf4c9",
@@ -981,7 +981,7 @@
 		"name": "KyberNetwork",
 		"symbol": "KNC",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/knc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/knc.jpg"
 	},
 	{
 		"address": "0x1cEB5cB57C4D4E2b2433641b95Dd330A33185A44",
@@ -989,7 +989,7 @@
 		"name": "Keep3rV1",
 		"symbol": "KP3R",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/kp3r.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/kp3r.jpg"
 	},
 	{
 		"address": "0xb29663Aa4E2e81e425294193616c1B102B70a158",
@@ -1013,7 +1013,7 @@
 		"name": "EthLend",
 		"symbol": "LEND",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/lend.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/lend.jpg"
 	},
 	{
 		"address": "0xbc194e6f748a222754C3E8b9946922c09E7d4e91",
@@ -1053,7 +1053,7 @@
 		"name": "Chain Link",
 		"symbol": "LINK",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/link.jpg"
 	},
 	{
 		"address": "0x0000000000095413afC295d19EDeb1Ad7B71c952",
@@ -1061,7 +1061,7 @@
 		"name": "LON Token",
 		"symbol": "LON",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/lon.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/lon.jpg"
 	},
 	{
 		"address": "0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD",
@@ -1069,7 +1069,7 @@
 		"name": "LoopringCoin V2",
 		"symbol": "LRC",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/lrc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/lrc.jpg"
 	},
 	{
 		"address": "0x0F5D2fB29fb7d3CFeE444a200298f468908cC942",
@@ -1077,7 +1077,7 @@
 		"name": "Decentraland",
 		"symbol": "MANA",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mana.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/mana.jpg"
 	},
 	{
 		"address": "0x67c597624B17b16fb77959217360B7cD18284253",
@@ -1173,7 +1173,7 @@
 		"name": "Maker",
 		"symbol": "MKR",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mkr.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/mkr.jpg"
 	},
 	{
 		"address": "0xec67005c4E498Ec7f55E092bd1d35cbC47C91892",
@@ -1181,7 +1181,7 @@
 		"name": "Melon Token",
 		"symbol": "MLN",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mln.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/mln.jpg"
 	},
 	{
 		"address": "0xa283aA7CfBB27EF0cfBcb2493dD9F4330E0fd304",
@@ -1197,7 +1197,7 @@
 		"name": "88mph",
 		"symbol": "MPH",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/88mph.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/88mph.jpg"
 	},
 	{
 		"address": "0xa3BeD4E1c75D00fa6f4E5E6922DB7261B5E9AcD2",
@@ -1205,7 +1205,7 @@
 		"name": "Meta",
 		"symbol": "MTA",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/mta.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/mta.jpg"
 	},
 	{
 		"address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
@@ -1277,7 +1277,7 @@
 		"name": "Numeraire",
 		"symbol": "NMR",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/nmr.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/nmr.jpg"
 	},
 	{
 		"address": "0x9D79d5B61De59D882ce90125b18F74af650acB93",
@@ -1301,7 +1301,7 @@
 		"name": "Ocean Token",
 		"symbol": "OCEAN",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ocean.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ocean.jpg"
 	},
 	{
 		"address": "0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26",
@@ -1325,7 +1325,7 @@
 		"name": "OKB",
 		"symbol": "OKB",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/okb.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/okb.jpg"
 	},
 	{
 		"address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
@@ -1333,7 +1333,7 @@
 		"name": "OmiseGO",
 		"symbol": "OMG",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/omg.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/omg.jpg"
 	},
 	{
 		"address": "0xD5cd84D6f044AbE314Ee7E414d37cae8773ef9D3",
@@ -1341,7 +1341,7 @@
 		"name": "Harmony ONE",
 		"symbol": "ONE",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/one.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/one.jpg"
 	},
 	{
 		"address": "0xE0aD1806Fd3E7edF6FF52Fdb822432e847411033",
@@ -1389,7 +1389,7 @@
 		"name": "Paxos Standard",
 		"symbol": "PAX",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/pax.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/pax.jpg"
 	},
 	{
 		"address": "0x45804880De22913dAFE09f4980848ECE6EcbAf78",
@@ -1413,7 +1413,7 @@
 		"name": "Perpetual Protocol",
 		"symbol": "PERP",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/perp.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/perp.jpg"
 	},
 	{
 		"address": "0x429881672B9AE42b8EbA0E26cD9C73711b891Ca5",
@@ -1421,7 +1421,7 @@
 		"name": "Pickle Token",
 		"symbol": "PICKLE",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/pickle.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/pickle.jpg"
 	},
 	{
 		"address": "0x26607aC599266b21d13c7aCF7942c7701a8b699c",
@@ -1549,7 +1549,7 @@
 		"name": "Rai Reflex Index",
 		"symbol": "RAI",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rai.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/rai.jpg"
 	},
 	{
 		"address": "0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f",
@@ -1557,7 +1557,7 @@
 		"name": "RAMP DEFI",
 		"symbol": "RAMP",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ramp.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ramp.jpg"
 	},
 	{
 		"address": "0xFca59Cd816aB1eaD66534D82bc21E7515cE441CF",
@@ -1565,7 +1565,7 @@
 		"name": "Rarible",
 		"symbol": "RARI",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rari.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/rari.jpg"
 	},
 	{
 		"address": "0x5245C0249e5EEB2A0838266800471Fd32Adb1089",
@@ -1581,7 +1581,7 @@
 		"name": "Ripio Credit Network",
 		"symbol": "RCN",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rcn.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/rcn.jpg"
 	},
 	{
 		"address": "0x408e41876cCCDC0F92210600ef50372656052a38",
@@ -1589,7 +1589,7 @@
 		"name": "Republic",
 		"symbol": "REN",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ren.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ren.jpg"
 	},
 	{
 		"address": "0x221657776846890989a759BA2973e427DfF5C9bB",
@@ -1597,7 +1597,7 @@
 		"name": "Reputation",
 		"symbol": "REPv2",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/repv2.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/repv2.jpg"
 	},
 	{
 		"address": "0xD291E7a03283640FDc51b121aC401383A46cC623",
@@ -1605,7 +1605,7 @@
 		"name": "Rari Governance Token",
 		"symbol": "RGT",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rgt.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/rgt.jpg"
 	},
 	{
 		"address": "0x607F4C5BB672230e8672085532f7e901544a7375",
@@ -1613,7 +1613,7 @@
 		"name": "RLC",
 		"symbol": "RLC",
 		"decimals": 9,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rlc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/rlc.jpg"
 	},
 	{
 		"address": "0xE94B97b6b43639E238c851A7e693F50033EfD75C",
@@ -1653,7 +1653,7 @@
 		"name": "Reserve Rights",
 		"symbol": "RSR",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rsr.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/rsr.jpg"
 	},
 	{
 		"address": "0x2aECCB42482cc64E087b6D2e5Da39f5A7A7001f8",
@@ -1669,7 +1669,7 @@
 		"name": "THORChain ETH.RUNE",
 		"symbol": "RUNE",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/rune.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/rune.jpg"
 	},
 	{
 		"address": "0xe9F84dE264E91529aF07Fa2C746e934397810334",
@@ -1685,7 +1685,7 @@
 		"name": "The Sandbox",
 		"symbol": "SAND",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sand.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sand.jpg"
 	},
 	{
 		"address": "0x73968b9a57c6E53d41345FD57a6E6ae27d6CDB2F",
@@ -1709,7 +1709,7 @@
 		"name": "saffron.finance",
 		"symbol": "SFI",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sfi.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sfi.jpg"
 	},
 	{
 		"address": "0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de",
@@ -1725,7 +1725,7 @@
 		"name": "Synthetix Network Token",
 		"symbol": "SNX",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/snx.jpg"
 	},
 	{
 		"address": "0x42d6622deCe394b54999Fbd73D108123806f6a18",
@@ -1749,7 +1749,7 @@
 		"name": "Serum",
 		"symbol": "SRM",
 		"decimals": 6,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/srm.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/srm.jpg"
 	},
 	{
 		"address": "0x0Ae055097C6d159879521C384F1D2123D1f195e6",
@@ -1757,7 +1757,7 @@
 		"name": "xDAI",
 		"symbol": "STAKE",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/stake.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/stake.jpg"
 	},
 	{
 		"address": "0xbE9375C6a420D2eEB258962efB95551A5b722803",
@@ -1781,7 +1781,7 @@
 		"name": "SushiSwap",
 		"symbol": "SUSHI",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sushi.jpg"
 	},
 	{
 		"address": "0x87eDfFDe3E14c7a66c9b9724747a1C5696b742e6",
@@ -1813,7 +1813,7 @@
 		"name": "Swipe",
 		"symbol": "SXP",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sxp.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sxp.jpg"
 	},
 	{
 		"address": "0xbDbf245c690d54b67C6e610A28486A2C6dE08bE6",
@@ -1845,7 +1845,7 @@
 		"name": "TomoChain",
 		"symbol": "TOMO",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/tomoe.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/tomoe.jpg"
 	},
 	{
 		"address": "0x77777FeDdddFfC19Ff86DB637967013e6C6A116C",
@@ -1877,7 +1877,7 @@
 		"name": "TrueFi",
 		"symbol": "TRU",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/tru.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/tru.jpg"
 	},
 	{
 		"address": "0xE1Be5D3f34e89dE342Ee97E6e90D405884dA6c67",
@@ -1893,7 +1893,7 @@
 		"name": "TRYfinance",
 		"symbol": "TRY",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/try.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/try.jpg"
 	},
 	{
 		"address": "0x0000000000085d4780B73119b644AE5ecd22b376",
@@ -1901,7 +1901,7 @@
 		"name": "TrueUSD",
 		"symbol": "TUSD",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/tusd.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/tusd.jpg"
 	},
 	{
 		"address": "0x8eEF5a82E6Aa222a60F009ac18c24EE12dBf4b41",
@@ -1917,7 +1917,7 @@
 		"name": "UMA Voting Token v1",
 		"symbol": "UMA",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uma.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/uma.jpg"
 	},
 	{
 		"address": "0x6fC13EACE26590B80cCCAB1ba5d51890577D83B2",
@@ -1933,7 +1933,7 @@
 		"name": "Uniswap",
 		"symbol": "UNI",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/uni.jpg"
 	},
 	{
 		"address": "0xE4AE84448DB5CFE1DaF1e6fb172b469c161CB85F",
@@ -1949,7 +1949,7 @@
 		"name": "USD Coin",
 		"symbol": "USDC",
 		"decimals": 6,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/usdc.jpg"
 	},
 	{
 		"address": "0x1c48f86ae57291F7686349F12601910BD8D470bb",
@@ -1981,7 +1981,7 @@
 		"name": "Tether USD",
 		"symbol": "USDT",
 		"decimals": 6,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/usdt.jpg"
 	},
 	{
 		"address": "0xa47c8bf37f92aBed4A126BDA807A7b7498661acD",
@@ -1989,7 +1989,7 @@
 		"name": "TerraUSD",
 		"symbol": "UST",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ust.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ust.jpg"
 	},
 	{
 		"address": "0xdbDD6F355A37b94e6C7D32fef548e98A280B8Df5",
@@ -2029,7 +2029,7 @@
 		"name": "Waves",
 		"symbol": "WAVES",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/waves.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/waves.jpg"
 	},
 	{
 		"address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
@@ -2037,7 +2037,7 @@
 		"name": "Wrapped Bitcoin",
 		"symbol": "WBTC",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/btc.jpg"
 	},
 	{
 		"address": "0xE452E6Ea2dDeB012e20dB73bf5d3863A3Ac8d77a",
@@ -2045,7 +2045,7 @@
 		"name": "Wrapped Celo",
 		"symbol": "WCELO",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/celo.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/celo.jpg"
 	},
 	{
 		"address": "0x76280AF9D18a868a0aF3dcA95b57DDE816c1aaf2",
@@ -2061,7 +2061,7 @@
 		"name": "Wrapped Ether",
 		"symbol": "WETH",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/eth.jpg"
 	},
 	{
 		"address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
@@ -2069,7 +2069,7 @@
 		"name": "Wrapped Filecoin",
 		"symbol": "WFIL",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fil.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/fil.jpg"
 	},
 	{
 		"address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
@@ -2077,7 +2077,7 @@
 		"name": "Polygon",
 		"symbol": "WMATIC",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/polygon.jpg"
 	},
 	{
 		"address": "0xBd356a39BFf2cAda8E9248532DD879147221Cf76",
@@ -2117,7 +2117,7 @@
 		"name": "Wrapped XMR",
 		"symbol": "WXMR",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/unknown.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/unknown.jpg"
 	},
 	{
 		"address": "0xABe580E7ee158dA464b51ee1a83Ac0289622e6be",
@@ -2157,7 +2157,7 @@
 		"name": "yearn.finance",
 		"symbol": "YFI",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/yfi.jpg"
 	},
 	{
 		"address": "0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83",
@@ -2165,7 +2165,7 @@
 		"name": "YFII.finance",
 		"symbol": "YFII",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfii.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/yfii.jpg"
 	},
 	{
 		"address": "0x9ba60bA98413A60dB4C651D4afE5C937bbD8044B",
@@ -2237,7 +2237,7 @@
 		"name": "0x",
 		"symbol": "ZRX",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/zrx.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/zrx.jpg"
 	},
 	{
 		"address": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
@@ -2437,7 +2437,7 @@
 		"name": "renBCH",
 		"symbol": "renBCH",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bch.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/bch.jpg"
 	},
 	{
 		"address": "0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D",
@@ -2445,7 +2445,7 @@
 		"name": "renBTC",
 		"symbol": "renBTC",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/btc.jpg"
 	},
 	{
 		"address": "0x3832d2F059E55934220881F831bE501D180671A7",
@@ -2461,7 +2461,7 @@
 		"name": "renZCH",
 		"symbol": "renZCH",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/zec.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/zec.jpg"
 	},
 	{
 		"address": "0xeABACD844A196D7Faf3CE596edeBF9900341B420",
@@ -2485,7 +2485,7 @@
 		"name": "Synth sUSD",
 		"symbol": "sUSD",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/susd.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/susd.jpg"
 	},
 	{
 		"address": "0xa2B0fDe6D710e201d0d608e924A484d1A5fEd57c",
@@ -2493,7 +2493,7 @@
 		"name": "Synth XRP",
 		"symbol": "sXRP",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xrp.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/xrp.jpg"
 	},
 	{
 		"address": "0xDFe66B14D37C77F4E9b180cEb433d1b164f0281D",
@@ -2557,7 +2557,7 @@
 		"name": "Wrapped NXM",
 		"symbol": "wNXM",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/wnxm.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/wnxm.jpg"
 	},
 	{
 		"address": "0xEF5C6A88710a3C857105058F947D249bc490909D",
@@ -2573,7 +2573,7 @@
 		"name": "SushiBar",
 		"symbol": "xSUSHI",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/xsushi.jpg"
 	},
 	{
 		"address": "0x5dbcF33D8c2E976c6b560249878e6F1491Bca25c",

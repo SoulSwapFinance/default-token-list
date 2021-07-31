@@ -5,7 +5,7 @@
 		"symbol": "1INCH",
 		"name": "1INCH Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/1inch.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/1inch.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -13,7 +13,7 @@
 		"symbol": "AAVE",
 		"name": "Aave Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/aave.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -21,7 +21,7 @@
 		"symbol": "BTC",
 		"name": "Bitcoin",
 		"decimals": 8,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/btc.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -29,7 +29,7 @@
 		"symbol": "BUSD",
 		"name": "Binance USD",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/busd.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -37,7 +37,7 @@
 		"symbol": "DAI",
 		"name": "Dai Stablecoin",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/dai.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -45,7 +45,7 @@
 		"symbol": "ETH",
 		"name": "Ether",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/eth.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -61,7 +61,7 @@
 		"symbol": "LINK",
 		"name": "ChainLink Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/link.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -77,7 +77,7 @@
 		"symbol": "MATIC",
 		"name": "Matic Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/polygon.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -85,7 +85,7 @@
 		"symbol": "SNX",
 		"name": "Synthetix Network Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/snx.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/snx.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -93,7 +93,7 @@
 		"symbol": "SUSHI",
 		"name": "Sushi Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sushi.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -101,7 +101,7 @@
 		"symbol": "UNI",
 		"name": "Uniswap",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/uni.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -109,7 +109,7 @@
 		"symbol": "USDC",
 		"name": "USD Coin",
 		"decimals": 6,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/usdc.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -117,7 +117,7 @@
 		"symbol": "USDT",
 		"name": "Tether USD",
 		"decimals": 6,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/usdt.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -157,7 +157,7 @@
 		"symbol": "WONE",
 		"decimals": 18,
 		"chainId": 1666600000,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/one.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/one.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -165,7 +165,7 @@
 		"symbol": "YFI",
 		"name": "yearn.finance",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/yfi.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -173,7 +173,7 @@
 		"symbol": "bscADA",
 		"name": "Cardano Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ada.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ada.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -181,7 +181,7 @@
 		"symbol": "bscBUSD",
 		"name": "BUSD Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/busd.jpg"
 	},
 	{
 		"chainId": 1666600000,
@@ -189,7 +189,7 @@
 		"symbol": "bscDOT",
 		"name": "Polkadot Token",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/dot.jpg"
 	},
 	{
 		"chainId": 1666600000,

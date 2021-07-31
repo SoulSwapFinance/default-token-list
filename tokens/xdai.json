@@ -13,7 +13,7 @@
     "symbol": "AAVE",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/aave.jpg"
   },
   {
     "name": "BaoToken on xDai",
@@ -21,7 +21,7 @@
     "symbol": "BAO",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/bao.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/bao.jpg"
   },
   {
     "name": "Curve DAO Token on xDai",
@@ -29,7 +29,7 @@
     "symbol": "CRV",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/crv.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/crv.jpg"
   },
   {
     "name": "DefiPulse Index from Ethereum",
@@ -37,7 +37,7 @@
     "symbol": "DPI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dpi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/dpi.jpg"
   },
   {
     "name": "ChainLink Token on xDai",
@@ -45,7 +45,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/link.jpg"
   },
   {
     "name": "Stake Token on xDai",
@@ -53,7 +53,7 @@
     "symbol": "STAKE",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/stake.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/stake.jpg"
   },
   {
     "name": "SushiToken on xDai",
@@ -61,7 +61,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sushi.jpg"
   },
   {
     "name": "USDC on xDai",
@@ -69,7 +69,7 @@
     "symbol": "USDC",
     "decimals": 6,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/usdc.jpg"
   },
   {
     "name": "Tether on xDai",
@@ -77,7 +77,7 @@
     "symbol": "USDT",
     "decimals": 6,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/usdt.jpg"
   },
   {
     "name": "Wrapped BTC on xDai",
@@ -85,7 +85,7 @@
     "symbol": "WBTC",
     "decimals": 8,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/btc.jpg"
   },
   {
     "name": "Wrapped Ether on xDai",
@@ -93,7 +93,7 @@
     "symbol": "WETH",
     "decimals": 18,
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/eth.jpg"
   },
   {
     "name": "xMOON on xDai",

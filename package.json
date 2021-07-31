@@ -22,12 +22,12 @@
     "token",
     "list"
   ],
-  "author": "Matthew Lilley <hello@matthewlilley.com>",
+  "author": "0xBuns x DeGatchi",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/soulswap/default-token-list/issues"
+    "url": "https://github.com/SoulSwapFinance/default-token-list/issues"
   },
-  "homepage": "https://github.com/soulswap/default-token-list#readme",
+  "homepage": "https://github.com/SoulSwapFinance/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.4.0",
     "@ethersproject/solidity": "^5.4.0",

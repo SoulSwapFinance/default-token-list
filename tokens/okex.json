@@ -5,7 +5,7 @@
     "symbol": "WOKT",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/okt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/okt.jpg"
   },
   {
     "name": "BTC",
@@ -13,7 +13,7 @@
     "symbol": "BTC",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/btc.jpg"
   },
   {
     "name": "LTC",
@@ -21,7 +21,7 @@
     "symbol": "LTC",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ltc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/ltc.jpg"
   },
   {
     "name": "ETH",
@@ -29,7 +29,7 @@
     "symbol": "ETH",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/eth.jpg"
   },
   {
     "name": "FIL",
@@ -37,7 +37,7 @@
     "symbol": "FIL",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fil.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/fil.jpg"
   },
   {
     "name": "DOT",
@@ -45,7 +45,7 @@
     "symbol": "DOT",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dot.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/dot.jpg"
   },
   {
     "name": "OKB",
@@ -61,7 +61,7 @@
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/usdc.jpg"
   },
   {
     "name": "USDK",
@@ -77,7 +77,7 @@
     "symbol": "USDT",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/usdt.jpg"
   },
   {
     "name": "LINK",
@@ -85,7 +85,7 @@
     "symbol": "LINK",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/link.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/link.jpg"
   },
   {
     "name": "SUSHI",
@@ -93,7 +93,7 @@
     "symbol": "SUSHI",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sushi.jpg"
   },
   {
     "name": "UNI",
@@ -101,7 +101,7 @@
     "symbol": "UNI",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/uni.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/uni.jpg"
   },
   {
     "name": "ZKS",
@@ -133,7 +133,7 @@
     "symbol": "DAI",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/dai.jpg"
   },
   {
     "name": "KINE",
@@ -197,7 +197,7 @@
     "symbol": "WBTC",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/btc.jpg"
   },
   {
     "name": "DeFiner",
@@ -205,6 +205,6 @@
     "symbol": "FIN",
     "decimals": 18,
     "chainId": 66,
-    "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/unkown.jpg"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/unkown.jpg"
   }
 ]
