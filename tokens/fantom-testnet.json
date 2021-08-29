@@ -16,12 +16,12 @@
     "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
   },
   {
-    "name": "Soul",
+    "name": "SoulPower",
     "address": "0xBa6204f47b4Db2a22D7C4227569cEa3C8aD448DC",
     "symbol": "SOUL",
     "decimals": 18,
     "chainId": 4002,
-    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/blockchains/fantom-testnet/assets/0xba6204f47b4db2a22d7c4227569cea3c8ad448dc/logo.jpg"
+    "logoURI": "https://raw.github.com/SoulSwapFinance/icons/master/token/soulswap.jpg"
   },
   {
     "name": "Seance",
@@ -29,7 +29,7 @@
     "symbol": "SEANCE",
     "decimals": 18,
     "chainId": 4002,
-    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/blockchains/fantom-testnet/assets/0xba34a07d0282a023e08ceb6098e59dfbebe9f1e1/logo.jpg"
+    "logoURI": "https://raw.github.com/SoulSwapFinance/icons/master/token/seancecircle.jpg"
   },
   {
     "name": "Spell",
@@ -37,6 +37,6 @@
     "symbol": "SPELL",
     "decimals": 18,
     "chainId": 4002,
-    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/blockchains/fantom-testnet/assets/0x399e4510941e94429bf282bec540300476b8a8fb/logo.jpg"
+    "logoURI": "https://raw.github.com/SoulSwapFinance/icons/master/token/spellbound.jpg"
   }
 ]

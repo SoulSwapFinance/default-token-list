@@ -36,7 +36,7 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/soulswap/art/master/soul/logo-256x256.png",
+      "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/soulswap.jpg",
     keywords: ["soulswap", "default"],
     tokens: [
       ...mainnet,
