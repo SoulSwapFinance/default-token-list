@@ -21,7 +21,7 @@
     "symbol": "SOUL",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0xe2fb177009ff39f52c0134e8007fa0e4baacbd07/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/blockchains/fantom/assets/0xe2fb177009ff39f52c0134e8007fa0e4baacbd07/logo.png"
   },
   {
     "name": "Seance Circle",
@@ -29,7 +29,7 @@
     "symbol": "SEANCE",
     "decimals": 18,
     "chainId": 250,
-    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0x124b06c5ce47de7a6e9efda71a946717130079e6/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/blockchains/fantom/assets/0x124b06c5ce47de7a6e9efda71a946717130079e6/logo.png"
   },
   {
     "name": "fWTI Oil",
