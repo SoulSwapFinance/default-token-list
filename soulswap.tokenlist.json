@@ -259,7 +259,7 @@
       "symbol": "BAND",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/bandprotocol_32.png"
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5/logo.png"
     },
     {
       "name": "Dai Stablecoin",
@@ -267,7 +267,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/MCDDai_32.png"
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png"
     },
     {
       "name": "Fantom USD",
@@ -307,7 +307,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/USDC_32.png"
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png"
     },
     {
       "name": "Wrapped Bitcoin",
@@ -323,7 +323,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/wETH_32.png"
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png"
     },
     {
       "name": "Wrapped Fantom",
@@ -331,7 +331,7 @@
       "symbol": "WFTM",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/wFtm_32.png"
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
     }
   ]
 }
