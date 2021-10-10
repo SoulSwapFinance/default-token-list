@@ -274,7 +274,7 @@
     {
       "name": "ReaperToken",
       "address": "0x117dB78176C8eDe4F12fCd29d85Cd96b91A4cbBb",
-      "symbol": "GRIM",
+      "symbol": "REAPER",
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x117dB78176C8eDe4F12fCd29d85Cd96b91A4cbBb/logo.png"
