@@ -120,14 +120,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/1094/small/tron-logo.png?1547035066"
     },
     {
-      "address": "0xc12eCeE46ed65D970EE5C899FCC7AE133AfF9b03",
-      "chainId": 1,
-      "name": "TRYfinance",
-      "symbol": "TRY",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/try.jpg"
-    },
-    {
       "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
       "chainId": 1,
       "name": "Uniswap",
@@ -286,6 +278,14 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x7eC94C4327dC757601B4273cD67014d7760Be97E/logo.png"
+    },
+    {
+      "name": "Magic Internet Money",
+      "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+      "symbol": "MIM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x82f0B8B456c1A451378467398982d4834b6829c1/logo.png"
     },
     {
       "name": "ReaperToken",
