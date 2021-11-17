@@ -303,6 +303,14 @@
         "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x7eC94C4327dC757601B4273cD67014d7760Be97E/logo.png"
       },
       {
+        "name": "IceToken",
+        "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+        "symbol": "ICE",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xf16e81dce15B08F326220742020379B855B87DF9/logo.png"
+      },
+      {
         "name": "Magic Internet Money",
         "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
         "symbol": "MIM",
