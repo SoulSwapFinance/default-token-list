@@ -160,6 +160,14 @@
         "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
       },
       {
+        "name": "SOR",
+        "address": "0xEFFd4874AcA3Acd19a24dF3281b5cdAdD823801A",
+        "symbol": "SOR",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xEFFd4874AcA3Acd19a24dF3281b5cdAdD823801A/logo.png"
+      },
+      {
         "name": "Wrapped Lumens",
         "address": "0xa69557e01B0a6b86E5b29BE66d730c0Bfff68208",
         "symbol": "WLUM",
