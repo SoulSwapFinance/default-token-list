@@ -1,6 +1,6 @@
 {
     "name": "SoulSwap Token List",
-    "timestamp": "2022-02-10T00:31:47.842Z",
+    "timestamp": "2022-07-10T00:31:47.842Z",
     "version": {
         "major": 2,
         "minor": 0,
@@ -13,6 +13,38 @@
         "default"
     ],
     "tokens": [
+      {
+        "name": "Fantom",
+        "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
+        "symbol": "FTM",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
+      },
+      {
+        "name": "USD Coin",
+        "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png"
+      },
+      {
+        "name": "JoeToken",
+        "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+        "symbol": "JOE",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/avalanche/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+      },
+      {
+        "name": "Wrapped Ether",
+        "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png"
+      },
         {
             "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
             "chainId": 40,
