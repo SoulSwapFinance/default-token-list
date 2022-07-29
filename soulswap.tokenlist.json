@@ -1,18 +1,19 @@
 {
-    "name": "SoulSwap Token List",
-    "timestamp": "2022-07-10T00:31:47.842Z",
-    "version": {
-        "major": 2,
-        "minor": 0,
-        "patch": 0
-    },
-    "tags": {},
-    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/soul.jpg",
-    "keywords": [
-        "soulswap",
-        "default"
-    ],
-    "tokens": [
+  "name": "SoulSwap Token List",
+  "timestamp": "2022-06-25T00:00:47.842Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/soul.jpg",
+  "keywords": [
+    "soulswap",
+    "default"
+  ],
+  "tokens": 
+  [
       {
         "name": "Fantom",
         "address": "0x4E15361FD6b4BB609Fa63C81A2be19d873717870",
@@ -30,12 +31,28 @@
         "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png"
       },
       {
+        "name": "Dai Stablecoin",
+        "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png"
+      },
+      {
         "name": "JoeToken",
         "address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
         "symbol": "JOE",
         "decimals": 18,
         "chainId": 43114,
-        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/avalanche/assets/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd/logo.png"
+        "logoURI": "https://snowtrace.io/token/images/traderjoe_32.png"
+      },
+      {
+        "name": "Wrapped Avalanche",
+        "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "symbol": "WAVAX",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://snowtrace.io/token/images/avax_32.png"
       },
       {
         "name": "Wrapped Ether",
@@ -45,7 +62,7 @@
         "chainId": 43114,
         "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png"
       },
-        {
+              {
             "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
             "chainId": 40,
             "name": "Binance",
@@ -109,189 +126,157 @@
             "decimals": 18,
             "logoURI": "https://github.com/sushiswap/list/blob/master/logos/token-logos/network/telos/0xD102cE6A4dB07D247fcc28F366A623Df0938CA9E.jpg"
         },
-        {
-            "name": "Fantom USD",
-            "address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",
-            "symbol": "FUSD",
-            "decimals": 18,
-            "chainId": 4002,
-            "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
-        },
-        {
-            "name": "Seance Circle",
-            "address": "0xba34A07d0282A023e08ceb6098E59dFBEbE9f1E1",
-            "symbol": "SEANCE",
-            "decimals": 18,
-            "chainId": 4002,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0xba34a07d0282a023e08ceb6098e59dfbebe9f1e1/logo.png"
-        },
-        {
-            "name": "Soul Power",
-            "address": "0xBa6204f47b4Db2a22D7C4227569cEa3C8aD448DC",
-            "symbol": "SOUL",
-            "decimals": 18,
-            "chainId": 4002,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0xba6204f47b4db2a22d7c4227569cea3c8ad448dc/logo.png"
-        },
-        {
-            "name": "Wrapped Fantom",
-            "address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
-            "symbol": "WFTM",
-            "decimals": 18,
-            "chainId": 4002,
-            "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
-        },
-        {
-            "name": "Anyswap",
-            "address": "0xdDcb3fFD12750B45d32E084887fdf1aABAb34239",
-            "symbol": "ANY",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xdDcb3fFD12750B45d32E084887fdf1aABAb34239/logo.png"
-        },
-        {
-            "name": "Binance",
-            "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
-            "symbol": "BNB",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
-        },
-        {
-            "name": "Curve DAO",
-            "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
-            "symbol": "CRV",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x1E4F97b9f9F913c46F1632781732927B9019C68b/logo.png"
-        },
-        {
-            "name": "Dai Stablecoin",
-            "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
-            "symbol": "DAI",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png"
-        },
-        {
-            "name": "Fantom USD",
-            "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
-            "symbol": "fUSD",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
-        },
-        {
-            "name": "Frapped USDT",
-            "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
-            "symbol": "fUSDT",
-            "decimals": 6,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x049d68029688eAbF473097a2fC38ef61633A3C7A/logo.png"
-        },
-        {
-            "name": "GrimToken",
-            "address": "0x7eC94C4327dC757601B4273cD67014d7760Be97E",
-            "symbol": "GRIM",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x7eC94C4327dC757601B4273cD67014d7760Be97E/logo.png"
-        },
-        {
-            "name": "Luxor Money",
-            "address": "0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b",
-            "symbol": "LUX",
-            "decimals": 9,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b/logo.png"
-        },
-        {
-            "name": "ReaperToken",
-            "address": "0x117dB78176C8eDe4F12fCd29d85Cd96b91A4cbBb",
-            "symbol": "REAPER",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x117dB78176C8eDe4F12fCd29d85Cd96b91A4cbBb/logo.png"
-        },
-        {
-            "name": "Seance Circle",
-            "address": "0x124B06C5ce47De7A6e9EFDA71a946717130079E6",
-            "symbol": "SEANCE",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x124B06C5ce47De7A6e9EFDA71a946717130079E6/logo.png"
-        },
-        {
-            "name": "Soul Power",
-            "address": "0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07",
-            "symbol": "SOUL",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07/logo.png"
-        },
-        {
-            "name": "UniDex",
-            "address": "0x2130d2a1e51112D349cCF78D2a1EE65843ba36e0",
-            "symbol": "UNIDX",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/prod/blockchains/fantom/assets/0x2130d2a1e51112D349cCF78D2a1EE65843ba36e0/logo.png"
-        },
-        {
-            "name": "USD Coin",
-            "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
-            "symbol": "USDC",
-            "decimals": 6,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png"
-        },
-        {
-            "name": "Wrapped Bitcoin",
-            "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
-            "symbol": "WBTC",
-            "decimals": 8,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x321162Cd933E2Be498Cd2267a90534A804051b11/logo.png"
-        },
-        {
-            "name": "Wrapped Ether",
-            "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
-            "symbol": "WETH",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png"
-        },
-        {
-            "name": "Wrapped Fantom",
-            "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
-            "symbol": "WFTM",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
-        },
-        {
-            "name": "SOR",
-            "address": "0xEFFd4874AcA3Acd19a24dF3281b5cdAdD823801A",
-            "symbol": "SOR",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xEFFd4874AcA3Acd19a24dF3281b5cdAdD823801A/logo.png"
-        },
-        {
-            "name": "Wrapped Lumens",
-            "address": "0xa69557e01B0a6b86E5b29BE66d730c0Bfff68208",
-            "symbol": "WLUM",
-            "decimals": 9,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/analytics/blockchains/fantom/assets/0xa69557e01B0a6b86E5b29BE66d730c0Bfff68208/logo.png"
-        },
-        {
-            "name": "GrimEVO Token",
-            "address": "0x0a77866C01429941BFC7854c0c0675dB1015218b",
-            "symbol": "GRIM EVO",
-            "decimals": 18,
-            "chainId": 250,
-            "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x0a77866C01429941BFC7854c0c0675dB1015218b/logo.png"
-        }
-    ]
+      {
+        "name": "Fantom USD",
+        "address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",
+        "symbol": "FUSD",
+        "decimals": 18,
+        "chainId": 4002,
+        "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
+      },
+      {
+        "name": "Seance Circle",
+        "address": "0xba34A07d0282A023e08ceb6098E59dFBEbE9f1E1",
+        "symbol": "SEANCE",
+        "decimals": 18,
+        "chainId": 4002,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0xba34a07d0282a023e08ceb6098e59dfbebe9f1e1/logo.png"
+      },
+      {
+        "name": "Soul Power",
+        "address": "0xBa6204f47b4Db2a22D7C4227569cEa3C8aD448DC",
+        "symbol": "SOUL",
+        "decimals": 18,
+        "chainId": 4002,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0xba6204f47b4db2a22d7c4227569cea3c8ad448dc/logo.png"
+      },
+      {
+        "name": "Wrapped Fantom",
+        "address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
+        "symbol": "WFTM",
+        "decimals": 18,
+        "chainId": 4002,
+        "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
+      },
+      {
+        "name": "Binance",
+        "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+        "symbol": "BNB",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
+      },
+      {
+        "name": "Curve DAO",
+        "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+        "symbol": "CRV",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x1E4F97b9f9F913c46F1632781732927B9019C68b/logo.png"
+      },
+      {
+        "name": "Dai Stablecoin",
+        "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
+        "symbol": "DAI",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E/logo.png"
+      },
+      {
+        "name": "Fantom USD",
+        "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+        "symbol": "fUSD",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
+      },
+      {
+        "name": "Luxor Money",
+        "address": "0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b",
+        "symbol": "LUX",
+        "decimals": 9,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b/logo.png"
+      },
+      {
+        "name": "Seance Circle",
+        "address": "0x124B06C5ce47De7A6e9EFDA71a946717130079E6",
+        "symbol": "SEANCE",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x124B06C5ce47De7A6e9EFDA71a946717130079E6/logo.png"
+      },
+      {
+        "name": "Soul Power",
+        "address": "0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07",
+        "symbol": "SOUL",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07/logo.png"
+      },
+      {
+        "name": "USD Coin",
+        "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75/logo.png"
+      },
+      {
+        "name": "SOR",
+        "address": "0xEFFd4874AcA3Acd19a24dF3281b5cdAdD823801A",
+        "symbol": "SOR",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xEFFd4874AcA3Acd19a24dF3281b5cdAdD823801A/logo.png"
+      },
+      {
+        "name": "Wrapped Bitcoin",
+        "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x321162Cd933E2Be498Cd2267a90534A804051b11/logo.png"
+      },
+      {
+        "name": "Wrapped Ether",
+        "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x74b23882a30290451A17c44f4F05243b6b58C76d/logo.png"
+      },
+      {
+        "name": "Wrapped Fantom",
+        "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+        "symbol": "WFTM",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
+      },
+      {
+        "name": "Wrapped Lumens",
+        "address": "0xa69557e01B0a6b86E5b29BE66d730c0Bfff68208",
+        "symbol": "WLUM",
+        "decimals": 9,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/analytics/blockchains/fantom/assets/0xa69557e01B0a6b86E5b29BE66d730c0Bfff68208/logo.png"
+      },
+      {
+        "name": "Grim EVO",
+        "address": "0x0a77866C01429941BFC7854c0c0675dB1015218b",
+        "symbol": "GRIM EVO",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x0a77866C01429941BFC7854c0c0675dB1015218b/logo.png"
+      },
+      {
+        "name": "Avalanche",
+        "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/Avalanche.svg"
+      }
+   ]
 }
