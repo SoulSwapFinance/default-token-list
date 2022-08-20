@@ -1,11 +1,11 @@
 const { version } = require("../package.json");
 
-const mainnet = require("../tokens/mainnet.json");
 const fantom = require("../tokens/fantom.json");
-const fantomTestnet = require("../tokens/fantom-testnet.json");
-const matic = require("../tokens/matic.json");
-const bsc = require("../tokens/bsc.json");
-const avalanche = require("../tokens/avalanche.json");
+// const mainnet = require("../tokens/mainnet.json");
+// const fantomTestnet = require("../tokens/fantom-testnet.json");
+// const matic = require("../tokens/matic.json");
+// const bsc = require("../tokens/bsc.json");
+// const avalanche = require("../tokens/avalanche.json");
 // const ropsten = require("../tokens/ropsten.json");
 // const rinkeby = require("../tokens/rinkeby.json");
 // const goerli = require("../tokens/goerli.json");
@@ -39,12 +39,12 @@ module.exports = function buildList() {
     //   "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/soul.jpg",
     // keywords: ["soulswap", "default"],
     tokens: [
-      ...mainnet,
       ...fantom,
-      ...fantomTestnet,
-      ...matic,
-      ...bsc,
-      ...avalanche,
+      // ...mainnet,
+      // ...fantomTestnet,
+      // ...matic,
+      // ...bsc,
+      // ...avalanche,
       // ...ropsten,
       // ...goerli,
       // ...kovan,

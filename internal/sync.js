@@ -11,11 +11,11 @@ const fs = require("fs");
 const { resolve } = require("path");
 
 const NAME = {
-  [ChainId.MAINNET]: "mainnet",
   [ChainId.FANTOM]: "fantom",
-  [ChainId.MATIC]: "matic",
-  [ChainId.BSC]: "bsc",
-  [ChainId.AVALANCHE]: "avalanche",
+  // [ChainId.MAINNET]: "mainnet",
+  // [ChainId.MATIC]: "matic",
+  // [ChainId.BSC]: "bsc",
+  // [ChainId.AVALANCHE]: "avalanche",
   // [ChainId.XDAI]: "xdai",
   // [ChainId.HECO]: "heco",
   // [ChainId.HARMONY]: "harmony",
