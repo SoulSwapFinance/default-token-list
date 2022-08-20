@@ -12,10 +12,12 @@ const { resolve } = require("path");
 
 const NAME = {
   [ChainId.FANTOM]: "fantom",
-  // [ChainId.MAINNET]: "mainnet",
-  // [ChainId.MATIC]: "matic",
-  // [ChainId.BSC]: "bsc",
-  // [ChainId.AVALANCHE]: "avalanche",
+  [ChainId.MAINNET]: "mainnet",
+  [ChainId.MATIC]: "matic",
+  [ChainId.BSC]: "bsc",
+  [ChainId.AVALANCHE]: "avalanche",
+  40: "telos",
+  1285: "moonriver",
   // [ChainId.XDAI]: "xdai",
   // [ChainId.HECO]: "heco",
   // [ChainId.HARMONY]: "harmony",

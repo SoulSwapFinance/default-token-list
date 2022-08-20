@@ -1,0 +1,66 @@
+[
+    {
+        "chainId": 1285,
+        "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+        "name": "Moonriver",
+        "symbol": "MOVR",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/moonriver/Moonriver.svg"
+    },
+    {
+        "chainId": 1285,
+        "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/Avalanche.svg"
+    },
+    {
+        "chainId": 1285,
+        "address": "0xaD12daB5959f30b9fF3c2d6709f53C335dC39908",
+        "name": "Fantom",
+        "symbol": "FTM",
+        "decimals": 18,
+        "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg"
+    },
+    {
+        "chainId": 1285,
+        "address": "0x682F81e57EAa716504090C3ECBa8595fB54561D8",
+        "name": "Polygon",
+        "symbol": "MATIC",
+        "decimals": 18,
+        "logoURI": "https://cryptologos.cc/logos/polygon-matic-logo.svg"
+    },
+    {
+        "chainId": 1285,
+        "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
+    },
+    {
+        "chainId": 1285,
+        "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.svg"
+    },
+    {
+        "chainId": 1285,
+        "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+        "name": "WETH",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.svg"
+    },
+    {
+        "chainId": 1285,
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+        "name": "Wrapped BNB",
+        "symbol": "WBNB",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png?1600947313"
+    }
+]
