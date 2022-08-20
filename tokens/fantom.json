@@ -1,37 +1,5 @@
   [
       {
-        "name": "Fantom USD",
-        "address": "0x91ea991bd52EE3C40EdA2509701d905e1Ee54074",
-        "symbol": "FUSD",
-        "decimals": 18,
-        "chainId": 4002,
-        "logoURI": "https://cdn.worldvectorlogo.com/logos/usd-1.svg"
-      },
-      {
-        "name": "Seance Circle",
-        "address": "0xba34A07d0282A023e08ceb6098E59dFBEbE9f1E1",
-        "symbol": "SEANCE",
-        "decimals": 18,
-        "chainId": 4002,
-        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0xba34a07d0282a023e08ceb6098e59dfbebe9f1e1/logo.png"
-      },
-      {
-        "name": "Soul Power",
-        "address": "0xBa6204f47b4Db2a22D7C4227569cEa3C8aD448DC",
-        "symbol": "SOUL",
-        "decimals": 18,
-        "chainId": 4002,
-        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom-testnet/assets/0xba6204f47b4db2a22d7c4227569cea3c8ad448dc/logo.png"
-      },
-      {
-        "name": "Wrapped Fantom",
-        "address": "0xf1277d1Ed8AD466beddF92ef448A132661956621",
-        "symbol": "WFTM",
-        "decimals": 18,
-        "chainId": 4002,
-        "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg?v=003"
-      },
-      {
         "name": "Anyswap",
         "address": "0xdDcb3fFD12750B45d32E084887fdf1aABAb34239",
         "symbol": "ANY",

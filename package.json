@@ -1,7 +1,7 @@
 {
   "name": "soulswap-default-token-list",
-  "version": "2.0.1",
-  "description": "The soulswap default token list",
+  "version": "2.1.0",
+  "description": "SoulSwap default token list",
   "main": "build/soulswap-default.tokenlist.json",
   "private": false,
   "scripts": {
@@ -34,15 +34,12 @@
     "@ethersproject/solidity": "^5.4.0",
     "@octokit/rest": "^18.7.1",
     "@soulswap/sdk": "^1.0.0",
-    "@uniswap/token-lists": "^1.0.0-beta.25",
+    "@uniswap/token-lists": "^1.0.0-beta.30",
     "ajv": "^8.6.2",
     "chai": "^4.2.0",
     "lodash": "^4.17.21",
     "mocha": "^9.0.3",
     "rimraf": "^3.0.2",
     "xlsx": "^0.17.0"
-  },
-  "dependencies": {
-    "lint": "^0.7.0"
   }
 }

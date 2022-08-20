@@ -14,13 +14,13 @@ const NAME = {
   [ChainId.MAINNET]: "mainnet",
   [ChainId.FANTOM]: "fantom",
   [ChainId.MATIC]: "matic",
-  [ChainId.XDAI]: "xdai",
   [ChainId.BSC]: "bsc",
   [ChainId.AVALANCHE]: "avalanche",
-  [ChainId.HECO]: "heco",
-  [ChainId.HARMONY]: "harmony",
-  [ChainId.OKEX]: "okex",
-  [ChainId.CELO]: "celo",
+  // [ChainId.XDAI]: "xdai",
+  // [ChainId.HECO]: "heco",
+  // [ChainId.HARMONY]: "harmony",
+  // [ChainId.OKEX]: "okex",
+  // [ChainId.CELO]: "celo",
 };
 
 (async () => {
