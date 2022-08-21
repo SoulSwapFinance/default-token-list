@@ -37,8 +37,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     // tags: {},
-    // logoURI:
-    //   "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/soul.jpg",
+    logoURI: "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07/logo.png",
     // keywords: ["soulswap", "default"],
     tokens: [
       ...ethereum,
@@ -47,6 +46,7 @@ module.exports = function buildList() {
       ...matic,
       ...avalanche,
       ...moonriver,
+      ...telos,
       // ...fantomTestnet,
       // ...ropsten,
       // ...goerli,

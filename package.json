@@ -1,11 +1,12 @@
 {
   "name": "soulswap-default-token-list",
-  "version": "2.4.0",
+  "version": "3.1.0",
   "description": "SoulSwap default token list",
   "main": "build/soulswap-default.tokenlist.json",
   "private": false,
   "scripts": {
     "test": "mocha",
+    "chocolata": "yarn build && yarn sync && yarn prepublishOnly && yarn test",
     "build": "rimraf build && mkdir -p build && node internal/write.js > build/soulswap-default.tokenlist.json",
     "prepublishOnly": "npm run build --scripts-prepend-node-path",
     "sync": "node internal/sync.js",
