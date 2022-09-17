@@ -73,6 +73,14 @@
       "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg"
     },
     {
+        "name": "Soul Power",
+        "address": "0x34862060EFF6DA2AF04D382C209a433279377d16",
+        "symbol": "SOUL",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/ethereum/assets/0x34862060EFF6DA2AF04D382C209a433279377d16/logo.png"
+      },
+    {
       "chainId": 40,
       "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
       "name": "Avalanche",
@@ -623,6 +631,14 @@
       "name": "Pangolin",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+    },
+    {
+        "name": "Soul Power",
+        "address": "0x11d6DD25c1695764e64F439E32cc7746f3945543",
+        "symbol": "SOUL",
+        "decimals": 18,
+        "chainId": 43114,
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/assets/0x11d6DD25c1695764e64F439E32cc7746f3945543/logo.png"
     },
     {
       "chainId": 43114,
