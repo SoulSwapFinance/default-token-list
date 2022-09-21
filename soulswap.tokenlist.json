@@ -594,14 +594,6 @@
     },
     {
       "chainId": 43114,
-      "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
-      "symbol": "AAVE",
-      "name": "Aave",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/aave-aave-logo.svg"
-    },
-    {
-      "chainId": 43114,
       "address": "0x0000000000000000000000000000000000000000",
       "symbol": "AVAX",
       "name": "Avalanche",
@@ -610,27 +602,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
-      "symbol": "BUSD",
-      "name": "Binance USD",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.svg"
-    },
-    {
-      "chainId": 43114,
       "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
       "symbol": "DAI",
       "name": "Dai Stablecoin",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x60781C2586D68229fde47564546784ab3fACA982",
-      "symbol": "PNG",
-      "name": "Pangolin",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
     },
     {
         "name": "Soul Power",
@@ -642,27 +618,11 @@
     },
     {
       "chainId": 43114,
-      "address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
-      "symbol": "TUSD",
-      "name": "TrueUSD",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/trueusd-tusd-logo.svg"
-    },
-    {
-      "chainId": 43114,
       "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
       "symbol": "USDC",
       "name": "USD Coin",
       "decimals": 6,
       "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg"
-    },
-    {
-      "chainId": 43114,
-      "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
-      "symbol": "USDT",
-      "name": "Tether",
-      "decimals": 6,
-      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg"
     },
     {
       "chainId": 43114,
