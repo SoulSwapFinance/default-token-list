@@ -4,7 +4,7 @@
   "version": {
     "major": 5,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07/logo.png",
   "tokens": [
@@ -614,7 +614,15 @@
     "symbol": "WETH",
     "name": "Wrapped Ethereum",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/assets/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+    },
+    {
+    "chainId": 43114,
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "symbol": "WAVAX",
+    "name": "Wrapped Avalanche",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
     },
     {
       "chainId": 43114,
