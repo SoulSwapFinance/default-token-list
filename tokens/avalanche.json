@@ -25,11 +25,19 @@
 },
 {
     "chainId": 43114,
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "symbol": "WAVAX",
+    "name": "Wrapped Avalanche",
+    "decimals": 8,
+    "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.svg"
+},
+{
+    "chainId": 43114,
     "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
     "symbol": "WETH",
     "name": "Wrapped Ethereum",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/assets/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
 },
 {
     "chainId": 43114,
@@ -37,6 +45,6 @@
     "symbol": "SOUL",
     "name": "SoulPower",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/0x11d6DD25c1695764e64F439E32cc7746f3945543/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/avalanche/assets/0x11d6DD25c1695764e64F439E32cc7746f3945543/logo.png"
 }
 ]
