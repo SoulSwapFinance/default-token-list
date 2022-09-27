@@ -2,9 +2,9 @@
   "name": "SoulSwap Token List",
   "timestamp": "2022-08-21T22:08:26.992Z",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
-    "patch": 0
+    "patch": 2
   },
   "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07/logo.png",
   "tokens": [
@@ -73,13 +73,13 @@
       "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg"
     },
     {
-        "name": "Soul Power",
-        "address": "0x34862060EFF6DA2AF04D382C209a433279377d16",
-        "symbol": "SOUL",
-        "decimals": 18,
-        "chainId": 1,
-        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/ethereum/assets/0x34862060EFF6DA2AF04D382C209a433279377d16/logo.png"
-      },
+      "name": "Soul Power",
+      "address": "0x34862060EFF6DA2AF04D382C209a433279377d16",
+      "symbol": "SOUL",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/ethereum/assets/0x34862060EFF6DA2AF04D382C209a433279377d16/logo.png"
+    },
     {
       "chainId": 40,
       "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
@@ -601,20 +601,36 @@
       "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
     },
     {
-        "name": "Soul Power",
-        "address": "0x11d6DD25c1695764e64F439E32cc7746f3945543",
-        "symbol": "SOUL",
-        "decimals": 18,
-        "chainId": 43114,
-        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/assets/0x11d6DD25c1695764e64F439E32cc7746f3945543/logo.png"
+      "name": "Soul Power",
+      "address": "0x11d6DD25c1695764e64F439E32cc7746f3945543",
+      "symbol": "SOUL",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/assets/0x11d6DD25c1695764e64F439E32cc7746f3945543/logo.png"
     },
     {
-    "chainId": 43114,
-    "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
-    "symbol": "WETH",
-    "name": "Wrapped Ethereum",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
+      "chainId": 43114,
+      "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+      "symbol": "BNB",
+      "name": "Binance",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bnb-bnb-logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x11d6DD25c1695764e64F439E32cc7746f3945543",
+      "symbol": "SOUL",
+      "name": "SoulPower",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/avalanche/assets/0x11d6DD25c1695764e64F439E32cc7746f3945543/logo.png"
     },
     {
       "chainId": 43114,
@@ -631,6 +647,22 @@
       "name": "Wrapped Bitcoin",
       "decimals": 8,
       "logoURI": "https://cryptologos.cc/logos/wrapped-bitcoin-wbtc-logo.svg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "symbol": "WAVAX",
+      "name": "Wrapped Avalanche",
+      "decimals": 8,
+      "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.svg"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+      "symbol": "WETH",
+      "name": "Wrapped Ethereum",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/assets/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
     }
   ]
 }
