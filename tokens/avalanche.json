@@ -44,7 +44,7 @@
         "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
         "symbol": "WAVAX",
         "name": "Wrapped Avalanche",
-        "decimals": 8,
+        "decimals": 18,
         "logoURI": "https://cryptologos.cc/logos/avalanche-avax-logo.svg"
     },
     {
