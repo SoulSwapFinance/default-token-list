@@ -601,14 +601,6 @@
       "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
     },
     {
-      "name": "Soul Power",
-      "address": "0x11d6DD25c1695764e64F439E32cc7746f3945543",
-      "symbol": "SOUL",
-      "decimals": 18,
-      "chainId": 43114,
-      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/assets/0x11d6DD25c1695764e64F439E32cc7746f3945543/logo.png"
-    },
-    {
       "chainId": 43114,
       "address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
       "symbol": "BNB",
