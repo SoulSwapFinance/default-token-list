@@ -9,11 +9,35 @@
     },
     {
         "chainId": 43114,
+        "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+        "symbol": "BUSD",
+        "name": "Binance USD",
+        "decimals": 18,
+        "logoURI": "https://cryptologos.cc/logos/binance-usd-busd-logo.svg"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+        "symbol": "COMP",
+        "name": "Compound",
+        "decimals": 18,
+        "logoURI": "https://cryptologos.cc/logos/compound-comp-logo.svg"
+    },
+    {
+        "chainId": 43114,
         "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
         "symbol": "DAI",
         "name": "Dai Stablecoin",
         "decimals": 18,
         "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
+    },
+    {
+        "chainId": 43114,
+        "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+        "symbol": "FRAX",
+        "name": "Frax",
+        "decimals": 18,
+        "logoURI": "https://cryptologos.cc/logos/frax-frax-logo.svg"
     },
     {
         "chainId": 43114,
