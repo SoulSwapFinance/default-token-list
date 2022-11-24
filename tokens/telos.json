@@ -1,19 +1,19 @@
 [
     {
         "chainId": 40,
-        "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
-        "name": "Binance",
-        "symbol": "BNB",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
-    },
-    {
-        "chainId": 40,
         "address": "0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D",
         "name": "Avalanche",
         "symbol": "AVAX",
         "decimals": 18,
         "logoURI": "https://github.com/sushiswap/list/blob/master/logos/token-logos/network/telos/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg"
+    },
+    {
+        "chainId": 40,
+        "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
+        "name": "Binance",
+        "symbol": "BNB",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
     },
     {
         "chainId": 40,

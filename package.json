@@ -1,6 +1,6 @@
 {
   "name": "soulswap-default-token-list",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "SoulSwap default token list",
   "main": "build/soulswap-default.tokenlist.json",
   "private": false,

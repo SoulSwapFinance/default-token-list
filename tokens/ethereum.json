@@ -1,11 +1,27 @@
 [
 	{
 		"chainId": 1,
-		"name": "Ethereum",
-		"address": "0x0000000000000000000000000000000000000000",
-		"symbol": "ETH",
+		"name": "Aave",
+		"address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+		"symbol": "AAVE",
 		"decimals": 18,
-		"logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.svg"
+		"logoURI": "https://cryptologos.cc/logos/aave-aave-logo.svg"
+	},
+	{
+		"chainId": 1,
+		"name": "Curve DAO Token",
+		"address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+		"symbol": "CRV",
+		"decimals": 18,
+		"logoURI": "https://cryptologos.cc/logos/curve-dao-token-crv-logo.svg"
+	},
+	{
+		"chainId": 1,
+		"name": "Dai Stablecoin",
+		"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+		"symbol": "DAI",
+		"decimals": 18,
+		"logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
 	},
 	{
 		"chainId": 1,
@@ -25,27 +41,26 @@
 	},
 	{
 		"chainId": 1,
+		"name": "SoulPower",
+		"address": "0x34862060EFF6DA2AF04D382C209a433279377d16",
+		"symbol": "SOUL",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07/logo.png"
+	},
+	{
+		"name": "SushiToken",
+		"address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+		"symbol": "SUSHI",
+		"decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sushi.jpg"
+	},
+	{
+		"chainId": 1,
 		"name": "USD Coin",
 		"address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
 		"symbol": "USDC",
 		"decimals": 6,
 		"logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.svg"
-	},
-	{
-		"chainId": 1,
-		"name": "Aave",
-		"address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-		"symbol": "AAVE",
-		"decimals": 18,
-		"logoURI": "https://cryptologos.cc/logos/aave-aave-logo.svg"
-	},
-	{
-		"chainId": 1,
-		"name": "Curve DAO Token",
-		"address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
-		"symbol": "CRV",
-		"decimals": 18,
-		"logoURI": "https://cryptologos.cc/logos/curve-dao-token-crv-logo.svg"
 	},
 	{
 		"chainId": 1,
@@ -57,10 +72,26 @@
 	},
 	{
 		"chainId": 1,
-		"name": "Dai Stablecoin",
-		"address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-		"symbol": "DAI",
+		"name": "Yearn Finance",
+		"address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+		"symbol": "YFI",
 		"decimals": 18,
-		"logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
+		"logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/yfi.jpg"
+	},
+	{
+		"chainId": 1,
+		"name": "Wrapped Bitcoin",
+		"address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+		"symbol": "WBTC",
+		"decimals": 8,
+		"logoURI": "https://cryptologos.cc/logos/bitcoin-btc-logo.svg"
+	},
+	{
+		"chainId": 1,
+		"name": "Wrapped Ether",
+		"address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+		"symbol": "WETH",
+		"decimals": 18,
+		"logoURI": "https://cryptologos.cc/logos/ethereum-eth-logo.svg"
 	}
 ]

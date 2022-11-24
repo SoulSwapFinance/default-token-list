@@ -41,7 +41,7 @@
   },
   {
     "symbol": "BUSD",
-    "name": "BUSD Token",
+    "name": "Binance USD",
     "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "chainId": 56,
     "decimals": 18,
@@ -49,7 +49,7 @@
   },
   {
     "symbol": "ETH",
-    "name": "Ethereum Token",
+    "name": "Ethereum",
     "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
     "chainId": 56,
     "decimals": 18,
@@ -57,7 +57,7 @@
   },
   {
     "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
-    "name": "BAND Protocol Token",
+    "name": "Band Protocol",
     "symbol": "BAND",
     "chainId": 56,
     "decimals": 18,
@@ -81,7 +81,7 @@
   },
   {
     "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
-    "name": "Bitcoin Cash Token",
+    "name": "Bitcoin Cash",
     "symbol": "BCH",
     "chainId": 56,
     "decimals": 18,
@@ -89,7 +89,7 @@
   },
   {
     "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
-    "name": "Litecoin Token",
+    "name": "Litecoin",
     "symbol": "LTC",
     "chainId": 56,
     "decimals": 18,
@@ -97,7 +97,7 @@
   },
   {
     "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
-    "name": "Cardano Token",
+    "name": "Cardano",
     "symbol": "ADA",
     "chainId": 56,
     "decimals": 18,
@@ -105,7 +105,7 @@
   },
   {
     "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
-    "name": "Cosmos Token",
+    "name": "Cosmos",
     "symbol": "ATOM",
     "chainId": 56,
     "decimals": 18,
@@ -113,7 +113,7 @@
   },
   {
     "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
-    "name": "Tezos Token",
+    "name": "Tezos",
     "symbol": "XTZ",
     "chainId": 56,
     "decimals": 18,
@@ -129,7 +129,7 @@
   },
   {
     "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-    "name": "Dai Token",
+    "name": "Dai Stablecoin",
     "symbol": "DAI",
     "chainId": 56,
     "decimals": 18,
@@ -145,7 +145,7 @@
   },
   {
     "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
-    "name": "Polkadot Token",
+    "name": "Polkadot",
     "symbol": "DOT",
     "chainId": 56,
     "decimals": 18,

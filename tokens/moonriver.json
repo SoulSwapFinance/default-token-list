@@ -1,19 +1,19 @@
 [
     {
         "chainId": 1285,
-        "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
-        "name": "Moonriver",
-        "symbol": "MOVR",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/moonriver/Moonriver.svg"
-    },
-    {
-        "chainId": 1285,
         "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
         "name": "Avalanche",
         "symbol": "AVAX",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/Avalanche.svg"
+    },
+    {
+        "chainId": 1285,
+        "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+        "name": "Dai Stablecoin",
+        "symbol": "DAI",
+        "decimals": 18,
+        "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
     },
     {
         "chainId": 1285,
@@ -33,11 +33,11 @@
     },
     {
         "chainId": 1285,
-        "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
-        "name": "Dai Stablecoin",
-        "symbol": "DAI",
+        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+        "name": "Wrapped BNB",
+        "symbol": "WBNB",
         "decimals": 18,
-        "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.svg"
+        "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png?1600947313"
     },
     {
         "chainId": 1285,
@@ -57,10 +57,10 @@
     },
     {
         "chainId": 1285,
-        "address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
-        "name": "Wrapped BNB",
-        "symbol": "WBNB",
+        "address": "0x98878B06940aE243284CA214f92Bb71a2b032B8A",
+        "name": "Wrapped Moonriver",
+        "symbol": "WMOVR",
         "decimals": 18,
-        "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png?1600947313"
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/moonriver/Moonriver.svg"
     }
 ]
