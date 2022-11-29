@@ -49,6 +49,14 @@
       },
       {
         "chainId": 250,
+        "name": "ChainLink",
+        "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+        "symbol": "LINK",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8/logo.png"
+      },
+      {
+        "chainId": 250,
         "name": "Liquid Driver",
         "address": "0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
         "symbol": "LQDR",
