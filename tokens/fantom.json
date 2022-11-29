@@ -49,6 +49,14 @@
       },
       {
         "chainId": 250,
+        "name": "Liquid Driver",
+        "address": "0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
+        "symbol": "LQDR",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9/logo.png"
+      },
+      {
+        "chainId": 250,
         "name": "Luxor Money",
         "address": "0x6671E20b83Ba463F270c8c75dAe57e3Cc246cB2b",
         "symbol": "LUX",
@@ -125,6 +133,6 @@
         "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
         "symbol": "YFI",
         "decimals": 18,
-        "logoURI": "https://cryptologos.cc/logos/yearn-finance-yfi-logo.svg"
+        "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x29b0Da86e484E1C0029B56e817912d778aC0EC69/logo.png"
       }
    ]
