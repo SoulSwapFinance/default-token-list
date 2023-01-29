@@ -3,8 +3,8 @@
   "timestamp": "2022-12-10T07:03:04.900Z",
   "version": {
     "major": 5,
-    "minor": 0,
-    "patch": 9
+    "minor": 1,
+    "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07/logo.png",
   "tokens": [
@@ -463,6 +463,14 @@
       "symbol": "CRV",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/curve-dao-token-crv-logo.svg"
+    },
+    {
+      "chainId": 250,
+      "name": "Cult Token",
+      "address": "0x4Ed9C2aba77141433c462B8EE835B7fC39Ec449A",
+      "symbol": "CULT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x4Ed9C2aba77141433c462B8EE835B7fC39Ec449A/logo.png"
     },
     {
       "chainId": 250,
