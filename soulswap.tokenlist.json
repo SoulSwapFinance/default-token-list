@@ -457,6 +457,14 @@
       "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE/logo.png"
     },
     {
+        "chainId": 250,
+        "name": "ChillPill",
+        "address": "0xe47d957F83F8887063150AaF7187411351643392",
+        "symbol": "CHILL",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xe47d957F83F8887063150AaF7187411351643392/logo.png"
+    },
+    {
       "chainId": 250,
       "name": "CurveDAO",
       "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
