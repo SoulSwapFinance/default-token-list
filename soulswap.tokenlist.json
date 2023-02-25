@@ -1,10 +1,10 @@
 {
   "name": "SoulSwap Token List",
-  "timestamp": "2022-12-10T07:03:04.900Z",
+  "timestamp": "2023-02-25T07:03:04.900Z",
   "version": {
     "major": 5,
     "minor": 1,
-    "patch": 0
+    "patch": 4
   },
   "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07/logo.png",
   "tokens": [
@@ -455,6 +455,14 @@
       "symbol": "BOO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE/logo.png"
+    },
+    {
+        "chainId": 250,
+        "name": "ChillPill",
+        "address": "0xe47d957F83F8887063150AaF7187411351643392",
+        "symbol": "CHILL",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xe47d957F83F8887063150AaF7187411351643392/logo.png"
     },
     {
       "chainId": 250,
