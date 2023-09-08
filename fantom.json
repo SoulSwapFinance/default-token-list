@@ -1,0 +1,178 @@
+[
+    {
+      "name": "Avalanche",
+      "address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x511D35c52a3C244E7b8bd92c0C297755FbD89212/logo.png"
+    },
+    {
+      "name": "Binance",
+      "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454/logo.png"
+    },
+    {
+      "name": "SpookyToken",
+      "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+      "symbol": "BOO",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE/logo.png"
+    },
+    {
+      "name": "Candle Token",
+      "address": "0x208234F4f8B1bBEA59cfDc38666141654e851DCe",
+      "symbol": "CANDLE",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x208234F4f8B1bBEA59cfDc38666141654e851DCe/logo.png"
+    },
+    {
+        "name": "ChillPill",
+        "address": "0xe47d957F83F8887063150AaF7187411351643392",
+        "symbol": "CHILL",
+        "decimals": 18,
+        "chainId": 250,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xe47d957F83F8887063150AaF7187411351643392/logo.png"
+    },
+    {
+      "name": "CurveDAO",
+      "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b",
+      "symbol": "CRV",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://cryptologos.cc/logos/curve-dao-token-crv-logo.svg"
+    },
+    {
+      "name": "Cult Token",
+      "address": "0x4Ed9C2aba77141433c462B8EE835B7fC39Ec449A",
+      "symbol": "CULT",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x4Ed9C2aba77141433c462B8EE835B7fC39Ec449A/logo.png"
+    },
+    {
+      "name": "Dai Stablecoin (Axelar)",
+      "address": "0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF/logo.png"
+    },
+    {
+      "name": "Ethereum (Axelar)",
+      "address": "0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B/logo.png"
+    },
+    {
+      "name": "ChainLink",
+      "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8/logo.png"
+    },
+    {
+      "name": "Liquid Driver",
+      "address": "0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9",
+      "symbol": "LQDR",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x10b620b2dbAC4Faa7D7FFD71Da486f5D44cd86f9/logo.png"
+    },
+    {
+      "name": "Oath Token",
+      "address": "0x21Ada0D2aC28C3A5Fa3cD2eE30882dA8812279B6",
+      "symbol": "OATH",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x21Ada0D2aC28C3A5Fa3cD2eE30882dA8812279B6/logo.png"
+    },  
+    {
+      "name": "Soul Power",
+      "address": "0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07",
+      "symbol": "SOUL",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0xe2fb177009FF39F52C0134E8007FA0e4BaAcBd07/logo.png"
+    },
+    {
+      "name": "SpiritSwap",
+      "address": "0x5Cc61A78F164885776AA610fb0FE1257df78E59B",
+      "symbol": "SPIRIT",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x5Cc61A78F164885776AA610fb0FE1257df78E59B/logo.png"
+    },
+    {
+      "name": "SurvToken",
+      "address": "0x5d9EaFC54567F34164A269Ba6C099068df6ef651",
+      "symbol": "SURV",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x5d9EaFC54567F34164A269Ba6C099068df6ef651/logo.png"
+    },
+    {
+      "name": "Sushi",
+      "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sushi.jpg"
+    },
+    {
+      "name": "USD Coin (Axelar)",
+      "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x1B6382DBDEa11d97f24495C9A90b7c88469134a4/logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.svg"
+    },
+    {
+      "name": "Wrapped Bitcoin (Axelar)",
+      "address": "0x448d59B4302aB5d2dadf9611bED9457491926c8e",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x448d59B4302aB5d2dadf9611bED9457491926c8e/logo.png"
+    },
+    {
+      "name": "Wrapped Fantom",
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "symbol": "WFTM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83/logo.png"
+    },
+    {
+      "name": "xCult Token",
+      "address": "0x718670c88F2daa222d44908C1c253253FF96aE21",
+      "symbol": "xCULT",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x718670c88F2daa222d44908C1c253253FF96aE21/logo.png"
+    },
+    {
+      "name": "Yearn Finance",
+      "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69",
+      "symbol": "YFI",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/prod/blockchains/fantom/assets/0x29b0Da86e484E1C0029B56e817912d778aC0EC69/logo.png"
+    },
+  ]
