@@ -490,7 +490,7 @@
     },
     {
       "chainId": 250,
-      "name": "Dai Stablecoin (Axelar)",
+      "name": "Axelar Dai Stablecoin",
       "address": "0xD5d5350F42CB484036A1C1aF5F2DF77eAFadcAFF",
       "symbol": "DAI",
       "decimals": 18,
@@ -498,7 +498,7 @@
     },
     {
       "chainId": 250,
-      "name": "Ethereum (Axelar)",
+      "name": "Axelar Ethereum",
       "address": "0xfe7eDa5F2c56160d406869A8aA4B2F365d544C7B",
       "symbol": "ETH",
       "decimals": 18,
@@ -570,7 +570,7 @@
     },
     {
       "chainId": 250,
-      "name": "USD Coin (Axelar)",
+      "name": "Axelar USD Coin",
       "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
       "symbol": "USDC",
       "decimals": 6,
@@ -586,7 +586,7 @@
     },
     {
       "chainId": 250,
-      "name": "Wrapped Bitcoin (Axelar)",
+      "name": "Axelar Bitcoin",
       "address": "0x448d59B4302aB5d2dadf9611bED9457491926c8e",
       "symbol": "WBTC",
       "decimals": 8,
@@ -618,8 +618,8 @@
     },
     {
       "chainId": 1285,
-      "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
       "name": "Avalanche",
+      "address": "0x14a0243C333A5b238143068dC3A7323Ba4C30ECB",
       "symbol": "AVAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/soulswapfinance/assets/master/blockchains/avalanche/Avalanche.svg"
