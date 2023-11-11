@@ -33,6 +33,14 @@
     },
     {
         "chainId": 43114,
+        "address": "0x5947BB275c521040051D82396192181b413227A3", 
+        "symbol": "LINK",
+        "name": "Chainlink",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/avalanche/assets/0x5947BB275c521040051D82396192181b413227A3/logo.png"
+    },
+    {
+        "chainId": 43114,
         "address": "0x11d6DD25c1695764e64F439E32cc7746f3945543",
         "symbol": "SOUL",
         "name": "SoulPower",
