@@ -128,6 +128,14 @@
       "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/icons/master/token/sushi.jpg"
     },
     {
+      "name": "TinHatCat",
+      "address": "0x479673391b3818f5e3ED2fa69A58e13d685BEcf6",
+      "symbol": "THC",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://raw.githubusercontent.com/SoulSwapFinance/assets/master/blockchains/fantom/assets/0x479673391b3818f5e3ED2fa69A58e13d685BEcf6/logo.png"
+    },
+    {
       "name": "USD Coin (Axelar)",
       "address": "0x1B6382DBDEa11d97f24495C9A90b7c88469134a4",
       "symbol": "USDC",
